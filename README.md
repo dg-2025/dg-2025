@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí! Daniel G. aqui</h1>
+<h1 align="center">👋 Eai! Daniel G. aqui</h1>
 
 ---
 
