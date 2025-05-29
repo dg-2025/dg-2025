@@ -1,7 +1,5 @@
 <h1 align="center">👋 E aí! Daniel G. aqui</h1>
 
-<p align="center">404: Medo de desafios não encontrado</p>
-
 ---
 
 ### 🧠 Sobre mim
