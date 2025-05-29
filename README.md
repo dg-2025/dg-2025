@@ -30,7 +30,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_Logo_%282019–present%29.svg" alt="Office">
+  <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732222.png" alt="Microsoft Office">
 
 </div>
 
