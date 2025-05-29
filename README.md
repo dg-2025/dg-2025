@@ -30,8 +30,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_Logo_%282013%E2%80%932019%29.svg" alt="Microsoft Office">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_Logo_%282019–present%29.svg" alt="Office">
+
 
 
 </div>
