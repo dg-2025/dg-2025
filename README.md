@@ -9,6 +9,15 @@
 - 🔧 Sempre aprendendo algo novo e resolvendo problemas com criatividade  
 - 🧩 Experiência com VBA e automações em planilhas e sistemas internos  
 - 🛠️ Conhecimentos em manutenção de computadores e otimização de desempenho no Windows  
+- 🚀 Sempre em busca de novos aprendizados e evoluindo meus projetos e habilidades  
+
+---
+
+### 🌐 Projeto em destaque
+
+- 🧠 **Guia das Melhores IAs Gratuitas**  
+  Um site moderno que apresenta diversas ferramentas de inteligência artificial gratuitas, com visual escuro e futurista:  
+  🔗 [Acesse aqui](https://omniiasite.vercel.app/)
 
 ---
 
@@ -31,14 +40,13 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732222.png" alt="Microsoft Office">
-
 </div>
 
 ---
 
 ### 📬 Contato
 
-- 📧 Email: **danielgomes5039@gmail.com**
+- 📧 Email: **danielgomes5039@gmail.com**  
 - 🌐 Portfólio: [Em construção...]
 
 ---
