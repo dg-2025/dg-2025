@@ -55,6 +55,7 @@
 <div align="center">
   <img height="60" alt="Google Cloud" src="https://github.com/user-attachments/assets/1b4c0ecb-7649-4ee4-abdd-9d4a7b399a43" />
   <img height="60" alt="Shell" src="https://github.com/user-attachments/assets/881012d9-8f8f-4483-9271-d2635c60a604" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img width="60"  alt="image" src="https://github.com/user-attachments/assets/c5a7668a-0e11-4238-8b7a-29bbb93d4a24" />
 
 </div>
