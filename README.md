@@ -30,7 +30,8 @@
   <img height="60" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img height="60" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img height="60" alt="Terminal" src="https://github.com/user-attachments/assets/aa589f95-8d84-4b9b-8376-41f15ee593c0" />
-  
+  <img width="60"  alt="png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark" src="https://github.com/user-attachments/assets/fc2a0220-6cf2-466e-92d3-991d77b1f319" />
+
 
 </div>
 
