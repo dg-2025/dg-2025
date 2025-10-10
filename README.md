@@ -38,6 +38,8 @@
   <img width="50" alt="google-cloud-platform" src="https://github.com/user-attachments/assets/1b4c0ecb-7649-4ee4-abdd-9d4a7b399a43" />
   <img width="50"  alt="cloudbeaver" src="https://github.com/user-attachments/assets/195646f4-7fda-45aa-84a6-f951df7b8688" />
   <img width="50"  alt="pngegg (1)" src="https://github.com/user-attachments/assets/099c452a-1512-49a3-93db-78bec410ec34" />
+  <img width="50" alt="image" src="https://github.com/user-attachments/assets/aa589f95-8d84-4b9b-8376-41f15ee593c0" />
+
 
 
 </div>
