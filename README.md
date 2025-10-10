@@ -24,7 +24,7 @@
 ### 🛠️ Tecnologias que curto usar
 
 #### 💻 Linguagens
-<div align="center">
+<div >
   <img height="60" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img height="60" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img height="60" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -35,7 +35,7 @@
 </div>
 
 #### ⚙️ Frameworks e Ferramentas
-<div align="center">
+<div >
   <img height="60" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   <img height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img height="60" alt="Swagger" src="https://github.com/user-attachments/assets/5d7b55ab-270e-4b63-8bbc-31e25f3a8627" />
@@ -52,7 +52,7 @@
 </div>
 
 #### ☁️ Cloud / Terminal / DevOps
-<div align="center">
+<div >
   <img height="60" alt="Google Cloud" src="https://github.com/user-attachments/assets/1b4c0ecb-7649-4ee4-abdd-9d4a7b399a43" />
   <img height="60" alt="Shell" src="https://github.com/user-attachments/assets/881012d9-8f8f-4483-9271-d2635c60a604" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
@@ -61,7 +61,7 @@
 </div>
 
 #### 💡 IDEs e Utilitários
-<div align="center">
+<div >
   <img height="60" alt="intellij" src="https://github.com/user-attachments/assets/73f7f741-4fb1-493d-9320-0054632492e0" />
   <img height="60" alt="vscode" src="https://github.com/user-attachments/assets/11cb2836-49e1-41c0-8f02-77cae312fd17" />
   <img height="60" alt="Office" src="https://github.com/user-attachments/assets/eef7281c-352f-46e0-89c8-7c1d1966b636" />
