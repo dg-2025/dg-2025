@@ -49,6 +49,7 @@
 #### 🛢️ Banco de Dados
 <div align="center">
   <img height="60" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img height="60" alt="dbbrowser" src="https://github.com/user-attachments/assets/099c452a-1512-49a3-93db-78bec410ec34" />
   <img height="60" alt="SQLite" src="https://github.com/user-attachments/assets/11cb2836-49e1-41c0-8f02-77cae312fd17" />
   <img height="60" alt="DBeaver" src="https://github.com/user-attachments/assets/73f7f741-4fb1-493d-9320-0054632492e0" />
 </div>
@@ -62,7 +63,7 @@
 
 #### 💡 IDEs e Utilitários
 <div align="center">
-  <img height="60" alt="VS Code" src="https://github.com/user-attachments/assets/099c452a-1512-49a3-93db-78bec410ec34" />
+  
   <img height="60" alt="Office" src="https://github.com/user-attachments/assets/eef7281c-352f-46e0-89c8-7c1d1966b636" />
   <img height="60" alt="CloudBeaver" src="https://github.com/user-attachments/assets/195646f4-7fda-45aa-84a6-f951df7b8688" />
 </div>
