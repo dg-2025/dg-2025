@@ -53,8 +53,16 @@
 
 ## 🏅 Certificações
 
-- 📜 [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727/public_url) – Emitido por Google Cloud em 10/10/2025
-- 📜 [AWS Academy Cloud Foundations](https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563/public_url) – Emitido por AWS em 05/09/2023
+## 🏅 Certificações
+
+### 📜 Google Cloud Computing Foundations Certificate
+[![Google Cloud Certificate](https://images.credly.com/size/680x680/images/2d17852e-d816-427f-b05e-2e84f61a9a6e/image.png)](https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727/public_url)
+
+---
+
+### 📜 AWS Academy Graduate - Cloud Foundations
+[![AWS Certificate](https://images.credly.com/size/680x680/images/0e82f472-c823-4c8d-94a6-1e850a36a85e/image.png)](https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563/public_url)
+
 
 
 <p align="center"><i>"Nada como um dia após o outro dia."</i></p>
