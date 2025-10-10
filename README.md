@@ -56,11 +56,9 @@
 ## 🏅 Certificações
 
 **tá aqui os certificados o:**  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b70867ab-b194-497e-8447-c8ae91da1563" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b70867ab-b194-497e-8447-c8ae91da1563" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7ed23956-bcec-435e-b4f4-dca664a0a727" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7ed23956-bcec-435e-b4f4-dca664a0a727" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
