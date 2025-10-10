@@ -44,7 +44,7 @@
 </div>
 
 #### 🛢️ Banco de Dados
-<div align="center">
+<div>
   <img height="60" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img height="60" alt="dbbrowser" src="https://github.com/user-attachments/assets/099c452a-1512-49a3-93db-78bec410ec34" />
   <img height="60" alt="CloudBeaver" src="https://github.com/user-attachments/assets/195646f4-7fda-45aa-84a6-f951df7b8688" />
