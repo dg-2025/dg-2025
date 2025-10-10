@@ -56,7 +56,6 @@
 <div align="center">
   <img height="60" alt="Google Cloud" src="https://github.com/user-attachments/assets/1b4c0ecb-7649-4ee4-abdd-9d4a7b399a43" />
   <img height="60" alt="Shell" src="https://github.com/user-attachments/assets/881012d9-8f8f-4483-9271-d2635c60a604" />
-  <img height="60" alt="Cloud CLI" src="https://github.com/user-attachments/assets/cdd91baa-1cd6-41d2-a096-e9e3e6978fce" />
 </div>
 
 #### 💡 IDEs e Utilitários
@@ -64,6 +63,7 @@
   <img height="60" alt="intellij" src="https://github.com/user-attachments/assets/73f7f741-4fb1-493d-9320-0054632492e0" />
   <img height="60" alt="vscode" src="https://github.com/user-attachments/assets/11cb2836-49e1-41c0-8f02-77cae312fd17" />
   <img height="60" alt="Office" src="https://github.com/user-attachments/assets/eef7281c-352f-46e0-89c8-7c1d1966b636" />
+  <img height="60" alt="VisualStudio" src="https://github.com/user-attachments/assets/cdd91baa-1cd6-41d2-a096-e9e3e6978fce" />
   <img height="60" alt="CloudBeaver" src="https://github.com/user-attachments/assets/195646f4-7fda-45aa-84a6-f951df7b8688" />
 </div>
 
