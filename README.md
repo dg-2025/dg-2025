@@ -1,19 +1,3 @@
-## 🏅 Certificações
-
-<p align="left">
-  <a href="https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563/public_url" target="_blank">
-    <img height="80" src="https://images.credly.com/size/340x340/images/1e9b86b2-2636-4a90-9a6b-8b9bc89b017d/AWS-Academy-Graduate.png" alt="AWS Academy Graduate - Cloud Foundations Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727/public_url" target="_blank">
-    <img height="80" src="https://images.credly.com/size/340x340/images/241ea56a-5f52-40cd-871e-95ef9fdd8b42/Google-Cloud-Foundations.png" alt="Google Cloud Computing Foundations Certificate"/>
-  </a>
-</p>
-
-> Certificados oficiais emitidos pela **Amazon Web Services (AWS)** e **Google Cloud**, registrados publicamente no [Credly](https://www.credly.com/users/daniel-gomes.1c9a0575).
-
-
-
 <h1 align="center">👋 Eai! Daniel G. aqui</h1>
 
 ---
@@ -66,5 +50,11 @@
 - 🌐 Portfólio: [Em construção...]
 
 ---
+
+## 🏅 Certificações
+
+- 📜 [Google Cloud Computing Foundations Certificate](https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727/public_url) – Emitido por Google Cloud em 10/10/2025
+- 📜 [AWS Academy Cloud Foundations](https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563/public_url) – Emitido por AWS em 05/09/2023
+
 
 <p align="center"><i>"Nada como um dia após o outro dia."</i></p>
