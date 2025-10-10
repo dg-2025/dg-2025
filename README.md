@@ -23,10 +23,6 @@
 
 ### 🛠️ Tecnologias que curto usar
 
----
-
-### 🛠️ Tecnologias que curto usar
-
 #### 💻 Linguagens
 <div align="center">
   <img height="60" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
