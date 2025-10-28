@@ -121,10 +121,6 @@
   </a>
   <a href="https://www.linkedin.com/in/daniel-gomes-903065292/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+5511999999999" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 - 📧 Email: **danielgomes5039@gmail.com**  
