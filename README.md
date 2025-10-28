@@ -138,18 +138,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dg-2025&theme=darkhub&margin-w=10&margin-h=10" alt="Trophies"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <summary>🧩 Flow de Conhecimento em ML/DS</summary>
-</div>
-
-```mermaid
-graph TD;
-    Machine-Learning-->Data;
-    Machine-Learning-->Algorithms;
-    Machine-Learning-->Statistical-Models;
-    Machine-Learning-->Feature-Engineering;
-    Machine-Learning-->Evaluation-Metrics;
-    Machine-Learning-->Deployment;
