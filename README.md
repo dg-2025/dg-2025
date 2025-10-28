@@ -92,10 +92,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-2025&layout=compact&langs_count=7&theme=radical" alt="Top langs"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dg-2025&theme=radical" alt="Streak stats"/>
-</div>
-
 ---
 
 ### 🏅 Certificações
