@@ -136,16 +136,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <summary>🧩 Flow de Conhecimento em ML/DS</summary>
-</div>
-
-```mermaid
-graph TD;
-    Machine-Learning-->Data;
-    Machine-Learning-->Algorithms;
-    Machine-Learning-->Statistical-Models;
-    Machine-Learning-->Feature-Engineering;
-    Machine-Learning-->Evaluation-Metrics;
-    Machine-Learning-->Deployment;
