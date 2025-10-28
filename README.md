@@ -56,7 +56,7 @@
 <div align="left">
   <img height="60" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="60" alt="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-8k56hp4f.png"/>
+  <img height="60" alt="Swagger"src="https://github.com/user-attachments/assets/50932ca7-d9f9-41ad-b8d9-61ff654f4371" />
   <img height="60" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img height="60" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
