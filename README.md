@@ -56,7 +56,7 @@
 <div align="left">
   <img height="60" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="60" alt="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-8k56hp4f.png"/>
+  <img height="60" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
   <img height="60" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img height="60" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
@@ -64,23 +64,23 @@
 #### 🛢️ Banco de Dados
 <div align="left">
   <img height="60" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img height="60" alt="DB Browser" src="https://github.com/user-attachments/assets/099c452a-1512-49a3-93db-78bec410ec34"/>
-  <img height="60" alt="CloudBeaver" src="https://github.com/user-attachments/assets/195646f4-7fda-45aa-84a6-f951df7b8688"/>
+  <img height="60" alt="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+  <img height="60" alt="CloudBeaver" src="https://avatars.githubusercontent.com/u/68491131?s=200&v=4"/>
 </div>
 
 #### ☁️ Cloud / Terminal / DevOps
 <div align="left">
   <img height="60" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-  <img height="60" alt="Shell" src="https://github.com/user-attachments/assets/881012d9-8f8f-4483-9271-d2635c60a604"/>
-  <img height="60" alt="AWS" src="https://github.com/user-attachments/assets/c5a7668a-0e11-4238-8b7a-29bbb93d4a24"/>
+  <img height="60" alt="Shell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
+  <img height="60" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/>
 </div>
 
 #### 💡 IDEs e Utilitários
 <div align="left">
-  <img height="60" alt="IntelliJ IDEA" src="https://github.com/user-attachments/assets/73f7f741-4fb1-493d-9320-0054632492e0"/>
-  <img height="60" alt="VSCode" src="https://github.com/user-attachments/assets/11cb2836-49e1-41c0-8f02-77cae312fd17"/>
-  <img height="60" alt="Office" src="https://github.com/user-attachments/assets/eef7281c-352f-46e0-89c8-7c1d1966b636"/>
-  <img height="60" alt="Visual Studio" src="https://github.com/user-attachments/assets/cdd91baa-1cd6-41d2-a096-e9e3e6978fce"/>
+  <img height="60" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"/>
+  <img height="60" alt="VSCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+  <img height="60" alt="Microsoft Office" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg"/>
+  <img height="60" alt="Visual Studio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
 </div>
 
 ---
@@ -121,9 +121,6 @@
   <a href="https://www.linkedin.com/in/daniel-gomes-903065292/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+5511999999999" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 - 📧 Email: **danielgomes5039@gmail.com**  
@@ -137,18 +134,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dg-2025&theme=darkhub&margin-w=10&margin-h=10" alt="Trophies"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <summary>🧩 Flow de Conhecimento em ML/DS</summary>
-</div>
-
-```mermaid
-graph TD;
-    Machine-Learning-->Data;
-    Machine-Learning-->Algorithms;
-    Machine-Learning-->Statistical-Models;
-    Machine-Learning-->Feature-Engineering;
-    Machine-Learning-->Evaluation-Metrics;
-    Machine-Learning-->Deployment;
