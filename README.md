@@ -47,16 +47,16 @@
 <div align="left">
   <img height="60" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img height="60" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="60" alt="HTML5" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.flaticon.com/free-icon/html5_1216733?term=html+5+logo&page=1&position=9&origin=tag&related_id=1216733)"/>
+  <img height="60" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="60" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="60" alt="Terminal" src="https://github.com/user-attachments/assets/aa589f95-8d84-4b9b-8376-41f15ee593c0"/>
+  <img height="60" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
 
 #### ⚙️ Frameworks e Ferramentas
 <div align="left">
   <img height="60" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="60" alt="Swagger" src="https://github.com/user-attachments/assets/5d7b55ab-270e-4b63-8bbc-31e25f3a8627"/>
+  <img height="60" alt="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-8k56hp4f.png"/>
   <img height="60" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img height="60" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
@@ -118,8 +118,11 @@
   <a href="mailto:danielgomes5039@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30"/>
   </a>
-  <a href="[https://linkedin.com/in/danielgomesdev](https://www.linkedin.com/in/daniel-gomes-903065292/)" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-gomes-903065292/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+5511999999999" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -136,3 +139,16 @@
 </div>
 
 ---
+
+<div align="center">
+  <summary>🧩 Flow de Conhecimento em ML/DS</summary>
+</div>
+
+```mermaid
+graph TD;
+    Machine-Learning-->Data;
+    Machine-Learning-->Algorithms;
+    Machine-Learning-->Statistical-Models;
+    Machine-Learning-->Feature-Engineering;
+    Machine-Learning-->Evaluation-Metrics;
+    Machine-Learning-->Deployment;
