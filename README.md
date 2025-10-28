@@ -47,7 +47,7 @@
 <div align="left">
   <img height="60" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img height="60" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="60" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="60" alt="HTML5" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://www.flaticon.com/free-icon/html5_1216733?term=html+5+logo&page=1&position=9&origin=tag&related_id=1216733)"/>
   <img height="60" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img height="60" alt="Terminal" src="https://github.com/user-attachments/assets/aa589f95-8d84-4b9b-8376-41f15ee593c0"/>
 </div>
