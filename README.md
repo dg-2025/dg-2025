@@ -57,7 +57,6 @@
   <img height="60" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
   <img height="60" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img height="60" alt="Swagger" src="https://github.com/user-attachments/assets/aa793406-f146-4848-b8ef-8e72c17d3216" />
- />
   <img height="60" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img height="60" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
 </div>
@@ -95,10 +94,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dg-2025&theme=radical" alt="Streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 </div>
 
 ---
