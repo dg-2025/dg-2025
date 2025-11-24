@@ -35,9 +35,9 @@
 
 ### 🌐 Projeto em destaque
 
-- 🧠 **Guia das Melhores IAs Gratuitas**  
-  Um site moderno que apresenta diversas ferramentas de inteligência artificial gratuitas:  
-  🔗 [Acesse aqui](https://omniiasite.vercel.app/)
+- 🧠 **Senai Notes (Projeto Fullstack)**  
+  Um sistema de anotações completo, seguro e responsivo, construído com React, Java (Spring Boot) e implantado em uma arquitetura de nuvem 100% desacoplada (Vercel, Render, AWS RDS & S3):  
+  🔗 [Acesse aqui](https://senai-notes-xi.vercel.app/login)
 
 ---
 
