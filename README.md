@@ -123,11 +123,12 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 ## 🐍 Cobrinha dos Commits
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
+</picture>
+
 </div>
 
 
