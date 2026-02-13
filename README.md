@@ -125,9 +125,9 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 <div align="center">
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
-  <img alt="github-snake" src="https://raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" /
   </picture>
 
 
