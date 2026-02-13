@@ -124,11 +124,12 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dg-2025/dg-2025/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dg-2025/dg-2025/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/dg-2025/dg-2025/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com" />
   </picture>
 </div>
+
 
 ---
 
