@@ -170,16 +170,13 @@ Engenheiro de Software e Desenvolvedor Full Stack especializado em arquitetar ec
 </div>
 
 ---
-
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dg-2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-2025&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=dg-2025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dg-2025&layout=compact&langs_count=7&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dg-2025&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dg-2025&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
@@ -188,19 +185,18 @@ Engenheiro de Software e Desenvolvedor Full Stack especializado em arquitetar ec
 
 <div align="center">
   <a href="https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563" target="_blank">
-    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/4e2d2e25-264c-46d0-8a37-4880b5a76342/image.png" alt="Certificação 1" />
+    <img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Foundations" />
   </a>
   <a href="https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727" target="_blank">
-    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/0d91b50a-b83b-463a-817a-e4e4ca6c7b02/image.png" alt="Certificação 2" />
+    <img src="https://img.shields.io/badge/Cisco-IT_Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="IT Essentials" />
   </a>
   <a href="https://www.credly.com/badges/7a526d63-c6fa-4ff1-837b-754bdbfae2f9" target="_blank">
-    <img width="120" height="120" src="https://cdn.qwiklabs.com/GhpQJftcmdeLTI%2BrzrR91fPJByO0Qvc9Qda%2FaZcI00c%3D" alt="Certificação 3" />
+    <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   </a>
   <a href="https://www.credly.com/badges/882e5737-ab9b-415b-ba4b-ea62c535eb1f" target="_blank">
-    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/4e2d2e25-264c-46d0-8a37-4880b5a76342/image.png" alt="Certificação 4" />
+    <img src="https://img.shields.io/badge/Credly-Verified_Badge-005B94?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Verification" />
   </a>
 </div>
-
 ---
 
 ## 📫 Vamos Conversar?
