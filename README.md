@@ -1,38 +1,39 @@
 <div align="center">
-  <h1>👋 Daniel Gomes</h1>
+  <h1>👋 Olá, sou Daniel Gomes</h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%26+Spring+Boot+Specialist;Cloud+Infrastructure+%26+Docker;Full+Stack+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Software+Engineer;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Java+%26+Spring;DevOps+%7C+Cloud+Infrastructure+(AWS)+%7C+Cybersecurity;Fintech+Integrations+(PIX+APIs+%26+Webhooks))](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://portfolio-dg-rosy.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <a href="https://daniel-gomes.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
     </a>
-    <a href="https://www.linkedin.com/in/daniel-gomes-903065292/" target="_blank">
+    <a href="https://www.linkedin.com/in/daniel-gomes-fullstack/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:danielgomes5039@gmail.com">
+    <a href="mailto:dg.contato.br@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/5511992270266" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=dg-2025&label=Visitantes&color=8B5CF6&style=flat" alt="visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=dg-2025&label=Visualizações&color=8B5CF6&style=flat" alt="visitantes" />
 </div>
 
 ---
 
 ## 🚀 Perfil Profissional
 
-<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h2dmJ4bmpxNnQ2OXI5dTBjNXBmZm12MHF0d2t0aGxsYXp5Ynd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Engenheiro de Software e Desenvolvedor Full Stack especializado em arquitetar ecossistemas digitais escaláveis, resilientes e de alta performance. Combino desenvolvimento de ponta a ponta (Next.js, TypeScript, Supabase, Java e Spring Boot) com práticas sólidas de **DevOps, Cloud e Cibersegurança**.
 
-Desenvolvedor focado na construção de aplicações escaláveis e robustas. Especialista no ecossistema **Java (Spring Boot)** e **React/Next.js**, com sólida experiência em infraestrutura de nuvem e bancos de dados relacionais.
+- 🎯 **Soluções & FinTech:** Experiência prática na implementação de fluxos financeiros complexos, como **APIs transacionais síncronas de Pix**, tratamento de concorrência, webhooks assíncronos e conciliação bancária automática.
+- 🛡️ **Segurança & Resiliência:** Aplicação de conceitos avançados de controle de acesso (Row Level Security - RLS no PostgreSQL), autenticação segura (JWT, Spring Security), segurança de aplicações web e testes/análise de vulnerabilidades com ferramentas como **Burp Suite**.
+- ☁️ **DevOps & Infraestrutura Cloud:** Provisionamento, deploy e gestão de ambientes em nuvem com **AWS (RDS, S3)**, Docker, Vercel e Render, alinhados a rotinas de CI/CD.
+- 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (**FATEC**).
+- 🐧 **Ambiente de Trabalho:** Linux (Ubuntu) focado em alta produtividade, automações e segurança.
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (FATEC).
-- 🛠️ Atuação como **Desenvolvedor Freelancer**, entregando sistemas ponta a ponta.
-- ⚙️ Domínio de arquiteturas RESTful, segurança com **JWT/Spring Security** e documentação com **Swagger**.
-- ☁️ Experiência prática em Deploy e Gerenciamento na **AWS** e **Docker**.
-- 🐧 Usuário e entusiasta de **Ubuntu Linux**.
-
-📍 Diadema - SP | Disponível para novos desafios e parcerias.
+📍 **Diadema - SP** | Disponível para novas oportunidades e projetos estratégicos.
 
 ---
 
@@ -40,20 +41,26 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 
 <div align="center">
 
-### **Backend & Infraestrutura**
+### **Linguagens & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Frontend & Design**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **Bancos de Dados & BaaS**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Cloud, DevOps & Segurança**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -65,31 +72,75 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center">🎲 04 Sorteios - Plataforma de Rifas</h3>
+        <p align="center">
+          <a href="https://04sorteio.com.br" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
+          </a>
+        </p>
+        <p>Plataforma transacional completa com gestão de cotas, painel administrativo seguro, autenticação em duas etapas e integração síncrona com <strong>Mercado Pago via PIX</strong> com webhooks em tempo real.</p>
+        <p align="center">
+          <code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Mercado Pago PIX</code> <code>RLS</code>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🍔 Burger Lab - Flash Food</h3>
+        <p align="center">
+          <a href="https://bg-lab.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
+          </a>
+        </p>
+        <p>Sistema completo de hamburgueria com PWA, cardápio interativo, checkout em tempo real, painel administrativo, PDV e automação de pedidos integrada com API do WhatsApp.</p>
+        <p align="center">
+          <code>Next.js</code> <code>Supabase Realtime</code> <code>PWA</code> <code>WhatsApp API</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
         <h3 align="center">📝 Senai Notes (SaaS)</h3>
         <p align="center">
           <a href="https://senai-notes-xi.vercel.app/login" target="_blank">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
           </a>
+          <a href="https://github.com/dg-2025/Senai-Notes" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Repo-100000?style=for-the-badge&logo=github" />
+          </a>
         </p>
-        <p>Plataforma de gestão acadêmica. Segurança via JWT/Spring Security e arquitetura em camadas. Backend resiliente com banco PostgreSQL.</p>
+        <p>Plataforma SaaS desacoplada com backend corporativo em Spring Boot, autenticação JWT, upload de arquivos via Amazon S3, documentação Swagger e banco PostgreSQL no AWS RDS.</p>
         <p align="center">
-          <code>Java 17</code> <code>Spring Boot</code> <code>React</code> <code>AWS RDS</code>
+          <code>Java 17</code> <code>Spring Boot</code> <code>React</code> <code>AWS RDS</code> <code>Amazon S3</code>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🛒 DG Drop Store</h3>
+        <h3 align="center">🛒 DG Drop Streetwear</h3>
         <p align="center">
           <a href="https://dg-drop.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
           </a>
         </p>
-        <p>E-commerce de alta performance. Otimizado para conversão, design dinâmico, SEO avançado e integração com Stripe.</p>
+        <p>E-commerce de moda urbana com arquitetura moderna em Next.js e Supabase, PWA offline, controle de estoque dinâmico, catálogo otimizado e painel administrativo robusto.</p>
         <p align="center">
-          <code>Next.js 14</code> <code>Tailwind</code> <code>Vercel</code> <code>Stripe</code>
+          <code>Next.js</code> <code>Supabase</code> <code>Tailwind CSS</code> <code>PWA</code>
         </p>
       </td>
     </tr>
     <tr>
+      <td width="50%">
+        <h3 align="center">📄 Gerador CV ATS</h3>
+        <p align="center">
+          <a href="https://ats-penetration.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
+          </a>
+          <a href="https://github.com/dg-2025/gerador-cv-ats" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Repo-100000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+        <p>Gerador de currículos com IA integrada (Groq) projetado para otimização em algoritmos de triagem ATS, renderização e exportação direta em PDF e suporte offline via PWA.</p>
+        <p align="center">
+          <code>Next.js</code> <code>TypeScript</code> <code>Groq AI API</code> <code>PWA</code>
+        </p>
+      </td>
       <td width="50%">
         <h3 align="center">🧥 Corrente do Agasalho</h3>
         <p align="center">
@@ -97,21 +148,9 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
             <img src="https://img.shields.io/badge/📁_Repo-100000?style=for-the-badge&logo=github" />
           </a>
         </p>
-        <p>Sistema ERP para gestão social com gamificação e controle de estoque centralizado na nuvem (AWS RDS).</p>
+        <p>Sistema desktop corporativo para gestão de doações sociais, integração com APIs de CEP e Clima, gamificação de doadores e persistência em nuvem com AWS RDS.</p>
         <p align="center">
-          <code>VB.NET</code> <code>WPF</code> <code>PostgreSQL</code> <code>AWS</code>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏭 Hespérides Indústria</h3>
-        <p align="center">
-          <a href="https://hesperides-three.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/🔗_Live_Demo-8B5CF6?style=for-the-badge" />
-          </a>
-        </p>
-        <p>Portal institucional focado em catálogo industrial, UI/UX premium e alta credibilidade de marca.</p>
-        <p align="center">
-          <code>React</code> <code>UI Design</code> <code>Vite</code> <code>Vercel</code>
+          <code>VB.NET</code> <code>WPF</code> <code>PostgreSQL</code> <code>AWS RDS</code>
         </p>
       </td>
     </tr>
@@ -120,19 +159,15 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 
 ---
 
-## 🐍 Cobrinha dos Commits
+## 🐍 Atividade no GitHub
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake.svg">
-</picture>
-
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dg-2025/dg-2025/output/github-snake.svg">
+  </picture>
 </div>
-
 
 ---
 
@@ -143,8 +178,7 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg-2025&layout=compact&langs_count=7&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dg-2025&theme=tokyonight" alt="GitHub Streak" />
-  
-  <!-- GRÁFICO DE ATIVIDADE ANIMADO -->
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dg-2025&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </div>
 
@@ -153,21 +187,36 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 ## 🏆 Certificações
 
 <div align="center">
-  <img width="110" height="110" src="https://images.credly.com/size/340x340/images/4e2d2e25-264c-46d0-8a37-4880b5a76342/image.png" alt="AWS Cloud Foundations" />
-  <img width="110" height="110" src="https://images.credly.com/size/340x340/images/0d91b50a-b83b-463a-817a-e4e4ca6c7b02/image.png" alt="IT Essentials" />
-  <img width="110" height="110" src="https://cdn.qwiklabs.com/GhpQJftcmdeLTI%2BrzrR91fPJByO0Qvc9Qda%2FaZcI00c%3D" alt="Google Cloud" />
+  <a href="https://www.credly.com/badges/b70867ab-b194-497e-8447-c8ae91da1563" target="_blank">
+    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/4e2d2e25-264c-46d0-8a37-4880b5a76342/image.png" alt="Certificação 1" />
+  </a>
+  <a href="https://www.credly.com/badges/7ed23956-bcec-435e-b4f4-dca664a0a727" target="_blank">
+    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/0d91b50a-b83b-463a-817a-e4e4ca6c7b02/image.png" alt="Certificação 2" />
+  </a>
+  <a href="https://www.credly.com/badges/7a526d63-c6fa-4ff1-837b-754bdbfae2f9" target="_blank">
+    <img width="120" height="120" src="https://cdn.qwiklabs.com/GhpQJftcmdeLTI%2BrzrR91fPJByO0Qvc9Qda%2FaZcI00c%3D" alt="Certificação 3" />
+  </a>
+  <a href="https://www.credly.com/badges/882e5737-ab9b-415b-ba4b-ea62c535eb1f" target="_blank">
+    <img width="120" height="120" src="https://images.credly.com/size/340x340/images/4e2d2e25-264c-46d0-8a37-4880b5a76342/image.png" alt="Certificação 4" />
+  </a>
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="mailto:danielgomes5039@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danielgomes5039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:dg.contato.br@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dg.contato.br@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5511992270266" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-(11)_99227--0266-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-gomes-fullstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel_Gomes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://daniel-gomes.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-daniel--gomes.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -176,5 +225,5 @@ Desenvolvedor focado na construção de aplicações escaláveis e robustas. Esp
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br/>
-  <sub>⚡ Daniel Gomes • 2026</sub>
+  <sub>⚡ Daniel Gomes • Engenheiro de Software & Soluções</sub>
 </div>
